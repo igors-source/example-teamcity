@@ -15,6 +15,6 @@ public class Welcomer{
 	}
 	}
 	public String sayHunter(){
-	    return "Hunter Biden";
+	    return "hunter Biden";
 	}
 }
